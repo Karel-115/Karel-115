@@ -1,4 +1,6 @@
-👋 Hi, I’m @Karel-115
+👋 Hi, I’m @Karel-115  
+😎 I jam with python, html, css
+
 
 <!---
 - 👋 Hi, I’m @Karel-115
@@ -8,7 +10,6 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---->
 
 <!---
 Karel-115/Karel-115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
